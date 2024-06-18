@@ -7,8 +7,13 @@
 - ⚡ Fun fact: I speak Chinese English and Hungarian
   
 - 🌱 About Me
-Currently a second-year Computer Science student at the University of Birmingham, with an expected graduation date of June 2025.
-I am passionate about leveraging technology to create impactful solutions and have a keen interest in software development and data analytics.
+  Currently a second-year Computer Science student at the University of Birmingham, with an expected graduation date of June 2025.
+  
+  I am passionate about leveraging technology to create impactful solutions and have a keen interest in software development and data analytics.
+
+  Feel free to reach out to me via email or LinkedIn for any collaboration, project opportunities, or networking purposes.
+  
+  I look forward to connecting with like-minded professionals and exploring new challenges in the tech world.
 
 Education
   - University of Birmingham : BSc Hons Computer Science (2022 - Present)
@@ -50,14 +55,8 @@ Language Skills:
   - Chinese: Native
   - Hungarian: Bilingual
   - English: Fluent (IELTS overall mark 7)
-    
-Contact Me:
-  - Mobile: +447746744031 (UK) / +36304665466 (HU)
-  - Email: zengzqt@gmail.com
-  - LinkedIn: linkedin.com/in/zengqintao
 
-  Feel free to reach out to me via email or LinkedIn for any collaboration, project opportunities, or networking purposes. 
-  I look forward to connecting with like-minded professionals and exploring new challenges in the tech world.
+
 
 
 
