@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I speak Chinese English and Hungarian
   
 - 🌱 About Me
-  Currently a second-year Computer Science student at the University of Birmingham, with an expected graduation date of June 2025.
   
   I am passionate about leveraging technology to create impactful solutions and have a keen interest in software development and data analytics.
 
@@ -28,11 +27,6 @@ Programming Languages:
   - TypeScript
   - Angular
     
-Development Tools:
-  - Git
-  - Kanban
-  - CI/CD
-  - Jhipster
     
 Project Experience:
 
@@ -54,7 +48,7 @@ Certifications:
 Language Skills:
   - Chinese: Native
   - Hungarian: Bilingual
-  - English: Fluent (IELTS overall mark 7)
+  - English: Fluent
 
 
 
